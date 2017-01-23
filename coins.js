@@ -46,12 +46,6 @@ coinCounter();
 countCoins.innerHTML = "You currently have " + coinPurse.quarters + " quarters and " + coinPurse.dimes + " dimes and " + coinPurse.nickels + " nickels and " + coinPurse.pennies + " pennies.";
 
 
-// var coins = coinCounter()
-// console.log();
-
-
-
-
  
 
 
